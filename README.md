@@ -56,4 +56,4 @@ PR directly, or write issue.
 * BKCommonLib ([Bukkit](https://dev.bukkit.org/projects/bkcommonlib))
 * Vault ([Spigot](https://www.spigotmc.org/resources/vault.34315/)) - [GitHub](https://github.com/MilkBowl/Vault/)
 * Vault API [GitHub](https://github.com/MilkBowl/VaultAPI/) - [Javadoc Latest](http://milkbowl.github.io/VaultAPI/)
-
+* PlaceholderAPI ([Spigot](https://www.spigotmc.org/resources/placeholderapi.6245/)) - [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI)
