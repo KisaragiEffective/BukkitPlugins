@@ -63,4 +63,4 @@ PR directly, or write issue.
 
 #### Economy
 * Vault ([Spigot](https://www.spigotmc.org/resources/vault.34315/)) - [GitHub](https://github.com/MilkBowl/Vault/)
-* Jecon - [GitHub](https://github.com/HimaJyun/Jecon/releases/latest)
+* Jecon - [GitHub](https://github.com/HimaJyun/Jecon/)
