@@ -60,3 +60,7 @@ PR directly, or write issue.
 
 #### Permission
 * ~~PermissionsEx~~ (**NO LONGER SUPPORTED**) ([Bukkit](https://dev.bukkit.org/projects/permissionsex)) - [GitHub](https://github.com/PEXPlugins/PermissionsEx/)
+
+#### Economy
+* Vault ([Spigot](https://www.spigotmc.org/resources/vault.34315/)) - [GitHub](https://github.com/MilkBowl/Vault/)
+* Jecon - [GitHub](https://github.com/HimaJyun/Jecon/releases/latest)
