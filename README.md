@@ -64,7 +64,7 @@ Japan Forum: [![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/4
 * PlaceholderAPI ([Spigot](https://www.spigotmc.org/resources/placeholderapi.6245/)) - [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI)
 
 #### Permission
-* ~~PermissionsEx~~ (**NO LONGER SUPPORTED**) ([Bukkit](https://dev.bukkit.org/projects/permissionsex)) - [GitHub](https://github.com/PEXPlugins/PermissionsEx/)
+* PermissionsEx ![DISCONTINUED](https://img.shields.io/badge/status-discontinued-red.svg) ([Bukkit](https://dev.bukkit.org/projects/permissionsex)) - [GitHub](https://github.com/PEXPlugins/PermissionsEx/)
 
 #### Economy
 * Vault ([Spigot](https://www.spigotmc.org/resources/vault.34315/)) - [GitHub](https://github.com/MilkBowl/Vault/)
