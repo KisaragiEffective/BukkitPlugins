@@ -19,20 +19,20 @@ Japan Forum: [![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/4
 -->
 ### Plugins
 * WorldEdit ([![Bukkit](https://cdn.discordapp.com/attachments/412590651528708096/601399371866570773/bukkit.png)](https://dev.bukkit.org/projects/worldedit/)) - [GitHub](https://github.com/EngineHub/WorldEdit/)
-* PlotSquared ([Spigot](https://www.spigotmc.org/resources/plotsquared.1177/)) - [GitHub](https://github.com/IntellectualSites/PlotSquared/) - [Javadoc v3.5.0](https://empcraft.com/plotsquared/doc/)
+* PlotSquared ([![Spigot](https://cdn.discordapp.com/attachments/412590651528708096/601400365887258640/www.png)](https://www.spigotmc.org/resources/plotsquared.1177/)) - [GitHub](https://github.com/IntellectualSites/PlotSquared/) - [Javadoc v3.5.0](https://empcraft.com/plotsquared/doc/)
 
 #### Claim
-* WorldGuard ([Bukkit](https://dev.bukkit.org/projects/worldguard/)) - [GitHub](https://github.com/EngineHub/WorldGuard/)
+* WorldGuard ([![Bukkit](https://cdn.discordapp.com/attachments/412590651528708096/601399371866570773/bukkit.png)](https://dev.bukkit.org/projects/worldguard/)) - [GitHub](https://github.com/EngineHub/WorldGuard/)
 * GakubuchiLockReloaded ([![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/412590651528708096/601404277281390592/favicons.png)](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=21210&p=193927#p193927)) - [GitHub](https://github.com/ucchyocean/GakubuchiLockReloaded)
-* StandLock ([Japan Unofficial Forum](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=21210&p=193927#p193927)) - [GitHub](https://github.com/ucchyocean/StandLock)
+* StandLock ([![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/412590651528708096/601404277281390592/favicons.png)](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=21210&p=193927#p193927)) - [GitHub](https://github.com/ucchyocean/StandLock)
 
 #### PvP
-* ColorTeaming ([Japan Unofficial Forum](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=9729)) - [GitHub](https://github.com/ucchyocean/ColorTeaming)
+* ColorTeaming ([![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/412590651528708096/601404277281390592/favicons.png)](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=9729)) - [GitHub](https://github.com/ucchyocean/ColorTeaming)
 
 #### Chat
 * ChatManager Reloaded ([Spigot](https://www.spigotmc.org/resources/chatmanager-reloaded.14780/))
-* LunaChat ([Japan Unofficial Forum](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=13739)) - [GitHub](https://github.com/ucchyocean/LunaChat/)
-* CustomMessage ([Japan Unofficial Forum]()) - [GitHub](https://github.com/yuttyann/CustomMessage)
+* LunaChat ([![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/412590651528708096/601404277281390592/favicons.png)](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=13739)) - [GitHub](https://github.com/ucchyocean/LunaChat/)
+* CustomMessage ([![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/412590651528708096/601404277281390592/favicons.png)]()) - [GitHub](https://github.com/yuttyann/CustomMessage)
 
 #### Logging
 * CoreProtect ([Bukkit](https://dev.bukkit.org/projects/coreprotect/) - [Spigot](https://www.spigotmc.org/resources/coreprotect.8631/))
