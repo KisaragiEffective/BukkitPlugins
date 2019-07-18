@@ -12,13 +12,18 @@ PR directly, or write issue.
 * Spigot - [Javadoc Latest]()
 * PaperMC - [Javadoc MC1.14.2](https://papermc.io/javadocs/1.14/overview-summary.html) - [Javadoc MC1.13.2](https://papermc.io/javadocs/1.13/overview-summary.html) - [Javadoc MC1.12.2](https://papermc.io/javadocs/1.12/overview-summary.html) 
 
+<!--
+Bukkit: [![Bukkit](https://cdn.discordapp.com/attachments/412590651528708096/601399371866570773/bukkit.png)](*URL*)
+Spigot Forum: [![Spigot](https://cdn.discordapp.com/attachments/412590651528708096/601400365887258640/www.png)](*URL*)
+Japan Forum: [![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/412590651528708096/601404277281390592/favicons.png)](*URL*)
+-->
 ### Plugins
-* WorldEdit ([Bukkit](https://dev.bukkit.org/projects/worldedit/)) - [GitHub](https://github.com/EngineHub/WorldEdit/)
+* WorldEdit ([![Bukkit](https://cdn.discordapp.com/attachments/412590651528708096/601399371866570773/bukkit.png)](https://dev.bukkit.org/projects/worldedit/)) - [GitHub](https://github.com/EngineHub/WorldEdit/)
 * PlotSquared ([Spigot](https://www.spigotmc.org/resources/plotsquared.1177/)) - [GitHub](https://github.com/IntellectualSites/PlotSquared/) - [Javadoc v3.5.0](https://empcraft.com/plotsquared/doc/)
 
 #### Claim
 * WorldGuard ([Bukkit](https://dev.bukkit.org/projects/worldguard/)) - [GitHub](https://github.com/EngineHub/WorldGuard/)
-* GakubuchiLockReloaded ([Japan Unofficial Forum](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=21210&p=193927#p193927)) - [GitHub](https://github.com/ucchyocean/GakubuchiLockReloaded)
+* GakubuchiLockReloaded ([![Japan Unofficial Forum](https://cdn.discordapp.com/attachments/412590651528708096/601404277281390592/favicons.png)](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=21210&p=193927#p193927)) - [GitHub](https://github.com/ucchyocean/GakubuchiLockReloaded)
 * StandLock ([Japan Unofficial Forum](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=21210&p=193927#p193927)) - [GitHub](https://github.com/ucchyocean/StandLock)
 
 #### PvP
