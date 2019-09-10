@@ -64,3 +64,15 @@ PR directly, or write issue.
 #### Economy
 * Vault ([Spigot](https://www.spigotmc.org/resources/vault.34315/)) - [GitHub](https://github.com/MilkBowl/Vault/)
 * Jecon - [GitHub](https://github.com/HimaJyun/Jecon/)
+
+#### Integrated for specify server
+* MyMaid - for jaoafa Server
+  * MyMaid - [GitHub](https://github.com/mine_book000/MyMaid)
+  * MyMaid2 - [GitHub](https://github.com/mine_book000/MyMaid2)
+  * MyMaid3 - [GitHub](https://github.com/mine_book000/MyMaid3)
+* TeisyokuPlugin - for Teisyoku Server
+  * TeisyokuPlugin - [GitHub](https://github.com/syokkendesuyo/TeisyokuPlugin)
+  * TeisyokuPlugin2 - [GitHub](https://github.com/syokkendesuyo/TeisyokuPlugin2)
+* For Seichi Server
+  * SeichiAssist - [GitHub](https://github.com/GiganticMinecraft/SeichiAssist)
+    * BuildAssist - [GitHub](https://github.com/GiganticMinecraft/BuildAssist)
