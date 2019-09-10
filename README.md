@@ -71,7 +71,7 @@ PR directly, or write issue.
   * MyMaid2 - [GitHub](https://github.com/mine_book000/MyMaid2)
   * MyMaid3 - [GitHub](https://github.com/mine_book000/MyMaid3)
 * TeisyokuPlugin - for Teisyoku Server
-  * TeisyokuPlugin - [GitHub](https://github.com/syokkendesuyo/TeisyokuPlugin)
+  * ~~TeisyokuPlugin~~ (**DELETED**) - [GitHub](https://github.com/syokkendesuyo/TeisyokuPlugin)
   * TeisyokuPlugin2 - [GitHub](https://github.com/syokkendesuyo/TeisyokuPlugin2)
 * For Seichi Server
   * SeichiAssist - [GitHub](https://github.com/GiganticMinecraft/SeichiAssist)
