@@ -67,9 +67,9 @@ PR directly, or write issue.
 
 #### Integrated for specify server
 * MyMaid - for jaoafa Server
-  * MyMaid - [GitHub](https://github.com/mine_book000/MyMaid)
-  * MyMaid2 - [GitHub](https://github.com/mine_book000/MyMaid2)
-  * MyMaid3 - [GitHub](https://github.com/mine_book000/MyMaid3)
+  * MyMaid - [GitHub](https://github.com/jaoafa/MyMaid)
+  * MyMaid2 - [GitHub](https://github.com/jaoafa/MyMaid2)
+  * MyMaid3 - [GitHub](https://github.com/jaoafa/MyMaid3)
 * TeisyokuPlugin - for Teisyoku Server
   * ~~TeisyokuPlugin~~ (**DELETED**) - [GitHub](https://github.com/syokkendesuyo/TeisyokuPlugin)
   * TeisyokuPlugin2 - [GitHub](https://github.com/syokkendesuyo/TeisyokuPlugin2)
